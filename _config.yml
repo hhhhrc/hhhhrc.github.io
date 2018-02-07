@@ -1,22 +1,30 @@
 ﻿# Site settings
-title: HRC Blog
+title: Hux Blog
 SEOTitle: HRC Blog
 header-img: img/home-bg.jpg
 email: 1270660449@qq.com
-description: "my cool blog"
-keyword: "互联网, Web, JavaScript, 前端, 设计"
-url: "https://"              # your host, for absolute URL
+description: "。"
+keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+url: "https://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
+<<<<<<< HEAD
 weibo_username:     u/3480028194
 zhihu_username:     qing-chun-chi-qi-99
 github_username:    hhhhrc
 twitter_username:   _hhhhrc
 #facebook_username:  
+=======
+weibo_username:     huxpro
+zhihu_username:     huxpro
+github_username:    huxpro
+twitter_username:   huxpro
+#facebook_username:  huxpro
+>>>>>>> parent of d5039af... myself
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -25,7 +33,7 @@ twitter_username:   _hhhhrc
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
-paginate: 5
+paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
@@ -61,14 +69,14 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto
+ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "前端<br>test"
-sidebar-avatar: /img/id-logo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -95,6 +103,30 @@ friends: [
     },{
         title: "前端外刊评论",
         href: "http://qianduan.guru/"
+    },{
+        title: "天镶的博客",
+        href: "http://lingyu.wang/"
+    },{
+        title: "Luke 的自留地",
+        href: "http://hmqk1995.github.io"
+    },{
+        title: "Ebn's Blog",
+        href: "http://ebnbin.com/"
+    },{
+        title: "SmdCn's Blog",
+        href: "http://blog.smdcn.net"
+    },{
+        title: "解旻的博客",
+        href: "http://xieminis.me/"
+    },{
+        title: "DHong Say",
+        href: "http://dhong.co"
+    },{
+        title: "尹峰以为",
+        href: "http://ingf.github.io/"
+    },{
+        title: "前端神盾局",
+        href: "http://wepiaofei.github.io/blog/"
     }
 ]
 port: 4000
