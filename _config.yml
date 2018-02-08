@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title: Hrc Blog
 SEOTitle: 胡日查的博客 | Hrc Blog
 header-img: img/home-bg.jpg
@@ -67,7 +67,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我的博客"
+sidebar-about-description: "任何一种坚持都能区别你和其他人"
 sidebar-avatar: /img/id.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
